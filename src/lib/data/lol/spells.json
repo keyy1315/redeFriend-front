@@ -1,0 +1,276 @@
+{
+  "type": "summoner",
+  "version": "15.20.1",
+  "data": {
+    "SummonerBarrier": {
+      "id": "SummonerBarrier",
+      "name": "Barrier",
+      "description": "Gain a brief Shield.",
+      "key": "21",
+      "image": {
+        "full": "SummonerBarrier.png",
+        "sprite": "spell0.png",
+        "group": "spell",
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      }
+    },
+    "SummonerBoost": {
+      "id": "SummonerBoost",
+      "name": "Cleanse",
+      "description": "Removes all disables (excluding suppression and airborne) and summoner spell debuffs affecting your champion and gives Tenacity.",
+      "key": "1",
+      "image": {
+        "full": "SummonerBoost.png",
+        "sprite": "spell0.png",
+        "group": "spell",
+        "x": 48,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      }
+    },
+    "SummonerCherryFlash": {
+      "id": "SummonerCherryFlash",
+      "name": "Flash",
+      "description": "Teleports your champion a short distance toward your cursor's location.",
+      "key": "2202",
+      "image": {
+        "full": "SummonerCherryFlash.png",
+        "sprite": "spell0.png",
+        "group": "spell",
+        "x": 96,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      }
+    },
+    "SummonerCherryHold": {
+      "id": "SummonerCherryHold",
+      "name": "Flee",
+      "description": "Gain a short burst of Move Speed, increased while running away from enemy champions.",
+      "key": "2201",
+      "image": {
+        "full": "SummonerCherryHold.png",
+        "sprite": "spell0.png",
+        "group": "spell",
+        "x": 144,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      }
+    },
+    "SummonerDot": {
+      "id": "SummonerDot",
+      "name": "Ignite",
+      "description": "Deals true damage over time to target enemy champion and reduces healing effects on them for the duration.",
+      "key": "14",
+      "image": {
+        "full": "SummonerDot.png",
+        "sprite": "spell0.png",
+        "group": "spell",
+        "x": 192,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      }
+    },
+    "SummonerExhaust": {
+      "id": "SummonerExhaust",
+      "name": "Exhaust",
+      "description": "Slows target enemy champion and reduces their damage dealt.",
+      "key": "3",
+      "image": {
+        "full": "SummonerExhaust.png",
+        "sprite": "spell0.png",
+        "group": "spell",
+        "x": 240,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      }
+    },
+    "SummonerFlash": {
+      "id": "SummonerFlash",
+      "name": "Flash",
+      "description": "Teleports you a short distance toward your cursor.",
+      "key": "4",
+      "image": {
+        "full": "SummonerFlash.png",
+        "sprite": "spell0.png",
+        "group": "spell",
+        "x": 288,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      }
+    },
+    "SummonerHaste": {
+      "id": "SummonerHaste",
+      "name": "Ghost",
+      "description": "Gain Move Speed and ignore unit collision for the duration.",
+      "key": "6",
+      "image": {
+        "full": "SummonerHaste.png",
+        "sprite": "spell0.png",
+        "group": "spell",
+        "x": 336,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      }
+    },
+    "SummonerHeal": {
+      "id": "SummonerHeal",
+      "name": "Heal",
+      "description": "Restores Health and grants Move Speed to you and target allied champion.",
+      "key": "7",
+      "image": {
+        "full": "SummonerHeal.png",
+        "sprite": "spell0.png",
+        "group": "spell",
+        "x": 384,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      }
+    },
+    "SummonerMana": {
+      "id": "SummonerMana",
+      "name": "Clarity",
+      "description": "Restores your and ally champion's Mana.",
+      "key": "13",
+      "image": {
+        "full": "SummonerMana.png",
+        "sprite": "spell0.png",
+        "group": "spell",
+        "x": 432,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      }
+    },
+    "SummonerPoroRecall": {
+      "id": "SummonerPoroRecall",
+      "name": "To the King!",
+      "description": "Quickly travel to the Poro King's side.",
+      "key": "30",
+      "image": {
+        "full": "SummonerPoroRecall.png",
+        "sprite": "spell0.png",
+        "group": "spell",
+        "x": 0,
+        "y": 48,
+        "w": 48,
+        "h": 48
+      }
+    },
+    "SummonerPoroThrow": {
+      "id": "SummonerPoroThrow",
+      "name": "Poro Toss",
+      "description": "Toss a Poro at your enemies. If it hits, you can quickly travel to your target as a follow up.",
+      "key": "31",
+      "image": {
+        "full": "SummonerPoroThrow.png",
+        "sprite": "spell0.png",
+        "group": "spell",
+        "x": 48,
+        "y": 48,
+        "w": 48,
+        "h": 48
+      }
+    },
+    "SummonerSmite": {
+      "id": "SummonerSmite",
+      "name": "Smite",
+      "description": "Deals true damage to a monster or minion.",
+      "key": "11",
+      "image": {
+        "full": "SummonerSmite.png",
+        "sprite": "spell0.png",
+        "group": "spell",
+        "x": 96,
+        "y": 48,
+        "w": 48,
+        "h": 48
+      }
+    },
+    "SummonerSnowURFSnowball_Mark": {
+      "id": "SummonerSnowURFSnowball_Mark",
+      "name": "Mark",
+      "description": "Throw a snowball in a straight line at your enemies. If it hits an enemy, they become marked, granting True Sight, and your champion can quickly travel to the marked target as a follow up.",
+      "key": "39",
+      "image": {
+        "full": "SummonerSnowURFSnowball_Mark.png",
+        "sprite": "spell0.png",
+        "group": "spell",
+        "x": 144,
+        "y": 48,
+        "w": 48,
+        "h": 48
+      }
+    },
+    "SummonerSnowball": {
+      "id": "SummonerSnowball",
+      "name": "Mark",
+      "description": "Throw a snowball in a straight line at your enemies. If it hits an enemy, they become marked, granting True Sight, and your champion can quickly travel to the marked target as a follow up.",
+      "key": "32",
+      "image": {
+        "full": "SummonerSnowball.png",
+        "sprite": "spell0.png",
+        "group": "spell",
+        "x": 192,
+        "y": 48,
+        "w": 48,
+        "h": 48
+      }
+    },
+    "SummonerTeleport": {
+      "id": "SummonerTeleport",
+      "name": "Teleport",
+      "description": "After a brief channel, become untargetable and travel to an allied unit. Upgrades into Unleashed Teleport, which significantly increases travel speed.",
+      "key": "12",
+      "image": {
+        "full": "SummonerTeleport.png",
+        "sprite": "spell0.png",
+        "group": "spell",
+        "x": 240,
+        "y": 48,
+        "w": 48,
+        "h": 48
+      }
+    },
+    "Summoner_UltBookPlaceholder": {
+      "id": "Summoner_UltBookPlaceholder",
+      "name": "Placeholder",
+      "description": "This slot will be replaced by another champion's ultimate selected at the start of the game. There will be 30 seconds to select an ultimate. Be prepared!",
+      "key": "54",
+      "image": {
+        "full": "Summoner_UltBookPlaceholder.png",
+        "sprite": "spell0.png",
+        "group": "spell",
+        "x": 288,
+        "y": 48,
+        "w": 48,
+        "h": 48
+      }
+    },
+    "Summoner_UltBookSmitePlaceholder": {
+      "id": "Summoner_UltBookSmitePlaceholder",
+      "name": "Placeholder and Attack-Smite",
+      "description": "This slot will be replaced by another champion's ultimate and you will gain Attack-Smite. There will be 30 seconds to select an ultimate. Be prepared!",
+      "key": "55",
+      "image": {
+        "full": "Summoner_UltBookSmitePlaceholder.png",
+        "sprite": "spell0.png",
+        "group": "spell",
+        "x": 336,
+        "y": 48,
+        "w": 48,
+        "h": 48
+      }
+    }
+  }
+}
